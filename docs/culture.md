@@ -1,18 +1,18 @@
 ---
-id: working_and_growing_here
-title: Working and Growing Here
-sidebar_label: Working and Growing Here
+id: culture
+title: Culture
+sidebar_label: Culture
 ---
 
 | Content Maintainers |
 |---|
-| Vanessa Yeh |
 | Morgan Russell |
 | Meg Colón |
-| Kimi Mashhoon |
 | Leigh Staub |
 
 [Distributed Work Experience](#distributed-work-experience)
+
+[Office Strategy](#office-strategy)
 
 [Annual Review Cadence](#annual-review-cadence)
 - [Performance Reviews](#performance-reviews) 
@@ -26,8 +26,6 @@ sidebar_label: Working and Growing Here
 
 [Global Employment](#global-employment)
 
-[Office Strategy](#office-strategy)
-
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
 [Conscientious Objection](#conscientious-objection)
@@ -38,7 +36,7 @@ sidebar_label: Working and Growing Here
 
 Learn how we think about the distributed experience.
 
-### 📘 First, let’s define some terms…
+#### 📘 First, let’s define some terms…
 
 - **Workplace Strategy:** Workplace strategy answers the question: “Where do we work that optimizes for effectiveness and efficiency?”. Possible answers include: fully distributed, hybrid, office-only.
 - **Asynchronous Work:** A way of working that does not require all team members to be online simultaneously. Asynchronous work is required for teams to function across multiple time zones. Often when we say “distributed work” we actually mean “distributed and asynchronous work” because our company is spread across many time zones globally. “Distributed” is commonly used as shorthand.
@@ -46,11 +44,11 @@ Learn how we think about the distributed experience.
 
 - **Distributed Work Experience (simply, "Distributed Experience"):** The employee experience specifically related to how work gets done in a distributed work environment. Communication, tools, processes and culture enable distributed work. The distributed experience could be liberating or constraining, agile or inflexible, fast or slow, equitable or inequitable. When you find yourself saying something like “I never know where to find information” you are making a comment about your personal distributed experience.
 
-### 🌐 What is our workplace strategy?
+#### 🌐 What is our workplace strategy?
 
 Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person and won’t have office space. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
 
-### ✨ What is our approach to support the distributed experience?
+#### ✨ What is our approach to support the distributed experience?
 
 A great distributed experience doesn’t just happen on its own. Employees have been working in offices for a *very long time* and have evolved norms of behavior for how work gets done. Distributed work is far newer. As a result, we can’t rely on a shared understanding of how to work effectively in this context. We must be extremely *intentional* about how the distributed experience is constructed. When done successfully, we are confident the distributed experience is more effective, enjoyable, and equitable than traditional office-based work.
 
@@ -60,7 +58,7 @@ A great distributed experience doesn’t just happen on its own. Employees have 
 - Investing in tooling and processes that support distributed work
 - Training everyone on how work gets done in a distributed work environment
 
-### 🤔 Why does the distributed experience matter?
+#### 🤔 Why does the distributed experience matter?
 
 Having a great distributed experience helps both our company and our employees. It also helps us live our values.
 
@@ -110,9 +108,9 @@ Having a great distributed experience helps both our company and our employees. 
 - **Employee engagement**
     - We celebrate our unique human-ness and connect beyond business which makes for a welcoming work environment for all. We all get together in-person annually for a company kick-off and we leverage other tools for virtual connection throughout the year.
 
-### 🚧 How is distributed work actually conducted?
+### How is distributed work actually conducted?
 
-This is a big and important topic. A remote work guide that answers this question is a focus in the coming quarters! As this comes together, we'll update this section with more robust content and link to resources and training.
+This is a big and important topic. A remote work guide that answers this question is in progress and can be found [here](https://www.notion.so/dbtlabs/How-we-work-communicate-9f2b59845baa42209c0134bdb10dfa55). The guide will be udpated with more robust content and link to resources and training throughout the year.
 
 ### 🌟 What are the guiding principles for our distributed experience?
 
@@ -120,6 +118,57 @@ This is a big and important topic. A remote work guide that answers this questio
 - **Intentional and explicit:** Our organizational practices and systems are designed with intention to support our distributed workforce. In a remote environment, social cues and cultural norms aren’t obvious. We are explicit with our communication to provide clarity and context for all.
 - **Default to asynchronous:** While async communication may not always be the ultimate way to get work done, it should be the default. Starting with async communication first allows for more effective synchronous communication when needed. It also helps your teammates retain their focus and flexibility by reducing interruptions and distractions.
 - **Progress > perfection:** Immediate answers aren’t expected. With the proper communication and tools in play, employees are empowered to keep iterating and making progress, backed with trust and support.
+
+## Office Strategy
+
+#### Goals of our offices:
+
+1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
+    1. Provide a space for teams to use for “on-sites”
+    2. Support in-person customer interactions
+2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
+
+#### Our offices are NOT:
+
+1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
+2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
+3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
+
+#### How & when we build offices?
+
+**How we choose where offices go:**
+
+1. **Proximity to team members**
+    1. Offices that are near existing concentrations of team members will get the highest utilization
+        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
+    2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
+2. **Proximity to partners, customers and other external stakeholders**
+
+**How we determine office size?**
+
+1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
+
+*Example:* 
+
+- Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
+- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
+- If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
+
+2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
+
+*Example:* 
+
+- Total number of team on-sites being hosted in the office per year
+- Average size of the team visiting the office
+- Number of external / customer meetings being held in the office
+
+**What is our target layout?*
+
+1. Conference room strategy:
+    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
+    -  Smaller call rooms so employees can take meetings in a quiet space as needed
+    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
+2. Open floor plan with desks to support employees working outside their home as needed
 
 ## Regional Offices
 
@@ -731,61 +780,6 @@ Team members are expected to communicate with their manager and team to ensure t
 🚧 There are different tax consequences for ISO and NSO options.  Additionally, tax rules vary across jurisdictions.  Employees are strongly encouraged to consult with a tax advisor before making any relocation decision.
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
-
-## Office Strategy
-
-#### Goals of our offices:
-
-1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
-    1. Provide a space for teams to use for “on-sites”
-    2. Support in-person customer interactions
-2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
-
-#### Our offices are NOT:
-
-1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
-2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
-3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
-
-#### How & when we build offices?
-
-**How we choose where offices go:**
-
-1. **Proximity to team members**
-    1. Offices that are near existing concentrations of team members will get the highest utilization
-        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
-    2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
-2. **Proximity to partners, customers and other external stakeholders**
-
-**How we determine office size?**
-
-1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
-
-*Example:* 
-
-- Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
-- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
-- If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
-
-2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
-
-*Example:* 
-
-- Total number of team on-sites being hosted in the office per year
-- Average size of the team visiting the office
-- Number of external / customer meetings being held in the office
-
-**What is our target layout?*
-
-1. Conference room strategy:
-    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
-    -  Smaller call rooms so employees can take meetings in a quiet space as needed
-    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
-2. Open floor plan with desks to support employees working outside their home as needed
-
-### Regional Offices
-
-Learn more about our regional offices [here](#regional-offices).
 
 ## Diversity, Equity and Inclusion
 
