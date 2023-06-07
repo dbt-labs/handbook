@@ -8,7 +8,7 @@ sidebar_label: Benefits and Perks
 
 | Content Maintainers |
 |---|
-| Clyde Stackhouse |
+| Clyde Stackhouse & Bethany Hipple |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
