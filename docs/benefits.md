@@ -10,7 +10,7 @@ sidebar_label: Benefits and Perks
 |---|
 
 
-| Clyde Stackhouse & Meg Colon |
+| Clyde Stackhouse |
 
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
