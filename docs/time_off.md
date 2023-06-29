@@ -209,7 +209,7 @@ Below is a summary of our paid leave programs.
 | Parental Leave    	| 12 Weeks                 	| Intermittent    	| Paid Family Leave,State,Unum    	|                                                                                   	|
 | Medical Leave     	| 4 Weeks                  	| Continuous      	| State,Unum                      	| Capped at 8 weeks if a team member is granted two medical leaves within one year. 	|
 | Caregiver Leave   	| 4 Weeks                  	| Intermittent    	| Paid Family Leave               	|                                                                                   	|
-| Miscarriage Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
+| Miscarriage/Baby Loss Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
 Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
@@ -290,9 +290,9 @@ A serious health condition is an illness, an injury, an impairment, or a physica
 
 Under some circumstances, employees may take this leave intermittently, which means taking leave in blocks of time or reducing the employee's normal weekly or daily work schedule. An employee may take leave intermittently whenever it is medically necessary to care for a seriously ill individual. Leave taken intermittently may be taken in increments of no less than one week.
 
-### Paid Miscarriage Leave
+### Paid Miscarriage/Loss of baby Leave
 
-Employees who experience or have a partner who experiences a miscarriage are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
+Employees who experience or have a partner who experiences a miscarriage/loss of baby are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
 
 ### Paid Bereavement Leave
 
