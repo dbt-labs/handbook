@@ -284,7 +284,7 @@ As part of our remote first approach, and in an effort to help our team do their
 - Additional services attached to your internet provider (ex. TV, home phone and additional subscription services)
 - Device payment installments, accessory data plans (Apple watch service), other phone lines on the bill, added subscriptions.
 
-All phone and internet expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+Standard phone and internet use expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app. Additional phone and internet expespense that occur due to **business travel and is used for business use** may be submitted for reimbursement via airbase as part of our existing Travel & Expense policy.
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
     
