@@ -123,7 +123,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Thanksgiving- Thursday, November 23, 2023
 - Friday after Thanksgiving- Friday, November 24, 2023
 - Christmas- Monday, December 25, 2023
-- Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
+- Global Week of Rest- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
 - MLK Day- Monday, January 15, 2024
 - Memorial Day- Monday, May 27, 2024
@@ -136,7 +136,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Thanksgiving- Thursday, November 28, 2024
 - Friday after Thanksgiving- Friday, November 29, 2024
 - Christmas- Wednesday, December 25, 2024
-- Winter Break- Thursday, December 26, 2024→Friday, January 3, 2025
+- Global Week of Rest- Thursday, December 26, 2024→Friday, January 3, 2025
 
 
 #### United Kingdom Holidays
@@ -148,7 +148,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Summer Bank Holiday- Monday, August 28, 2023
 - Christmas- Monday, December 25, 2023
 - Boxing Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
+- Global Week of Rest- Wednesday, December 27, 2023→Friday, December 29, 2023
 
 #### Ireland Holidays
 
@@ -161,7 +161,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - October Bank Holiday- Monday, October 30, 2023
 - Christmas- Monday, December 25, 2023
 - Saint Stephen’s Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- Global Week of Rest- Wednesday, December 27 → Friday, December 29, 2023
 
 #### Germany Holidays
 
@@ -177,7 +177,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - German Unity Day- Tuesday, October 3, 2023
 - Christmas Day- Monday, December 25, 2023
 - Saint Stephen’s Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- Global Week of Rest- Wednesday, December 27 → Friday, December 29, 2023
 
 #### Australia Holidays
 
@@ -193,7 +193,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Melbourne Cup Day (VIC)- Tuesday, November 7, 2023
 - Christmas Day- Monday, December 25, 2023
 - Boxing Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- Global Week of Rest- Wednesday, December 27 → Friday, December 29, 2023
 
 #### New Zealand Holidays
 
