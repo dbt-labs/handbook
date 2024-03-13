@@ -12,6 +12,11 @@ const siteSettings = {
   customFields: {},
   onBrokenLinks: "log",
   onBrokenMarkdownLinks: "log",
+  navbar: {
+    logo: {
+      href: '/docs/about_dbt_labs'
+    }
+  },
   presets: [
     [
       "@docusaurus/preset-classic",
