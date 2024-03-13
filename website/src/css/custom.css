@@ -38,3 +38,16 @@
 .navbar-sidebar__brand svg g {
   stroke: #fff;
 }
+
+/* Footer */
+.footer {
+  background: #20232a;
+}
+
+.footer__logo {
+  max-width: 70px;
+}
+
+.footer__copyright {
+  color: hsla(0,0%,100%,.4);
+}
