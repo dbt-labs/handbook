@@ -12,11 +12,6 @@ const siteSettings = {
   customFields: {},
   onBrokenLinks: "log",
   onBrokenMarkdownLinks: "log",
-  navbar: {
-    logo: {
-      href: '/docs/about_dbt_labs'
-    }
-  },
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -44,7 +39,8 @@ const siteSettings = {
     navbar: {
       title: "Handbook",
       logo: {
-        src: "img/dbt-labs-light.svg"
+        src: "img/dbt-labs-light.svg",
+        href: "/docs/about_dbt_labs"
       },
       items: []
     },
