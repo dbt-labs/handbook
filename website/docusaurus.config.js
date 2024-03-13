@@ -21,6 +21,8 @@ const siteSettings = {
           sidebarPath: "./sidebars.json",
           routeBasePath: "/docs/about_dbt_labs",
           breadcrumbs: false,
+          showLastUpdateTime: false,
+          showLastUpdateAuthor: false,
         },
         blog: false,
         theme: {
