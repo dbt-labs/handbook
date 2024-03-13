@@ -5,9 +5,7 @@ const siteSettings = {
   baseUrl: "/",
   organizationName: "dbt Labs",
   projectName: "handbook",
-  scripts: [
-    "https://buttons.github.io/buttons.js"
-  ],
+  scripts: ["https://buttons.github.io/buttons.js"],
   favicon: "img/dbt-logo.svg",
   customFields: {},
   onBrokenLinks: "log",
@@ -21,7 +19,7 @@ const siteSettings = {
           showLastUpdateTime: true,
           path: "./docs",
           sidebarPath: "./sidebars.json",
-          routeBasePath: '/docs/about_dbt_labs',
+          routeBasePath: "/docs/about_dbt_labs",
           breadcrumbs: false,
         },
         blog: false,
@@ -29,20 +27,25 @@ const siteSettings = {
           id: "classic",
           customCss: require.resolve("./src/css/custom.css"),
         },
-      }
-    ]
+      },
+    ],
   ],
   plugins: [
-    require.resolve('docusaurus-lunr-search'),
+    [
+      require.resolve("docusaurus-lunr-search"),
+      {
+        highlightResult: true,
+      },
+    ],
   ],
   themeConfig: {
     navbar: {
       title: "Handbook",
       logo: {
         src: "img/dbt-labs-light.svg",
-        href: "/docs/about_dbt_labs"
+        href: "/docs/about_dbt_labs",
       },
-      items: []
+      items: [],
     },
     docs: {
       sidebar: {
@@ -54,15 +57,15 @@ const siteSettings = {
       links: [],
       copyright: `Copyright © ${new Date().getFullYear()} dbt Labs`,
       logo: {
-        src: "img/dbt-logo-light.svg"
-      }
+        src: "img/dbt-logo-light.svg",
+      },
     },
     colorMode: {
       defaultMode: "light",
       disableSwitch: true,
       respectPrefersColorScheme: false,
-    }
-  }
-}
+    },
+  },
+};
 
 module.exports = siteSettings;

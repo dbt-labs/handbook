@@ -51,3 +51,6 @@
 .footer__copyright {
   color: hsla(0,0%,100%,.4);
 }
+
+/* Misc */
+mark  { background-color: #fdff32 !important;}
