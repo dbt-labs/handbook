@@ -45,7 +45,7 @@ const siteSettings = {
       title: "Handbook",
       logo: {
         src: "img/dbt-labs-light.svg",
-        href: "/docs",
+        href: "/docs/about_dbt_labs",
       },
       items: [],
     },
