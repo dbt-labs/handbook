@@ -1,0 +1,14 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "/docs/about_dbt_labs",
+            "permanent": true
+        },
+        {
+            "source": "/docs",
+            "destination": "/docs/about_dbt_labs",
+            "permanent": true
+        }
+    ]
+}

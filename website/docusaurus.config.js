@@ -19,7 +19,7 @@ const siteSettings = {
           showLastUpdateTime: true,
           path: "./docs",
           sidebarPath: "./sidebars.json",
-          routeBasePath: "/docs/about_dbt_labs",
+          routeBasePath: "/docs",
           breadcrumbs: false,
           showLastUpdateTime: false,
           showLastUpdateAuthor: false,

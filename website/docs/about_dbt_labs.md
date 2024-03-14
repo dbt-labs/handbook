@@ -2,7 +2,7 @@
 id: about_dbt_labs
 title: The dbt Labs Employee Handbook
 sidebar_label: About dbt Labs
-slug: /
+slug: /about_dbt_labs
 ---
 
 | Maintained by |
