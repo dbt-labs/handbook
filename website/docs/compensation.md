@@ -346,7 +346,7 @@ Dilution happens to all companies as they issue new equity over time. For exampl
 
 - **Grant Date**: The grant date is the date that the board approves the grant. Your grant date will almost always be after your vesting date.
 - **Vesting Date**: The vesting date will generally align to either your hire date (for new hire grants) or your promotion or review date (for refresh or promotion grants). This is when your vesting schedule starts.  If the grant date occurs after your vesting date, that does not change your vesting date.
-- **Exercise Window:** If you leave the company and have ISOs you will have 90 days to exercise your option for any shares that are vested (from the last day of service). For NSOs, you will have 180 days to exercise your options for any shares that are vested (from the last day of service).
+- **Exercise Window:** If you leave the company and have ISOs you will have 90 days to exercise your option for any shares that are vested (from the last day of service). For NSOs, you will have 90 days to exercise your options for any shares that are vested (from the last day of service).
     - As of December 8, 2021, for those that leave after at least 2 years of service to the company, dbt Labs has extended the exercise window to 5 years from termination . Please see this [update](https://www.notion.so/dbtlabs/Employee-Option-Update-e915ac846d2e4982b272dfa6e39eefe6?pvs=4) for details. **If you have an ISO and elect not to exercise your option in the 90-day period, it will convert to an NSO.**
 - **Option Expiration:** If not otherwise expired (through termination of your employment and not exercising within the exercise period), your stock options expire 10 years after the grant date.
 
