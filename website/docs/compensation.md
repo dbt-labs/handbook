@@ -367,7 +367,7 @@ Below is an overview of Incentive Stock Options (ISOs) and Non-Qualified Stock O
 - **Non-Qualified Stock Options (NSOs)**
     - Tax due at time of exercise.
         - The difference between the strike price of your grant and the current FMV is subject to ordinary income tax.
-    - NSOs allow for longer exercise periods. At dbt Labs, the default is 180 days after the termination date.
+    - NSOs allow for longer exercise periods. At dbt Labs, the default is 90 days after the termination date.
     - NSOs can be issued to employees and non-employees.
     - Can be issued by any entity.
 
