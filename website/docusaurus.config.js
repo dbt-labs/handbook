@@ -29,6 +29,9 @@ const siteSettings = {
           id: "classic",
           customCss: require.resolve("./src/css/custom.css"),
         },
+        googleTagManager: {
+          containerId: "GTM-W94FQQ8F",
+        },
       },
     ],
   ],
