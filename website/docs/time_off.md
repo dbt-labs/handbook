@@ -53,8 +53,8 @@ When in doubt, please discuss with your manager about your plans.
     
     - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 16 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
-    - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
-    - ***Paid Miscarriage or Pregnancy Loss Leave -** we recognize that this type of loss is very personal and what one needs in this moment will vary person by person. As a starting point, we’d encourage any dbt Labs employee who has experienced a miscarriage or loss of pregnancy to take 2 - 4 weeks of leave. This is truly a starting point and may not be enough for you and your family to heal so please work with your business partner and your manager to receive the support you need. *
+    - ***Paid Caregiver Leave ** - any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
+    - ***Paid Miscarriage or Pregnancy Loss Leave ** - we recognize that this type of loss is very personal and what one needs in this moment will vary person by person. As a starting point, we’d encourage any dbt Labs employee who has experienced a miscarriage or loss of pregnancy to take 2 - 4 weeks of leave. This is truly a starting point and may not be enough for you and your family to heal so please work with your business partner and your manager to receive the support you need.*
 - **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [Company Holidays ](#company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
 Note that because, in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
@@ -329,7 +329,9 @@ Under some circumstances, employees may take this leave intermittently, which me
 ### Paid Leave for Miscarriage/Pregnancy Loss
 
 We understand that miscarriages, still borns and loss of pregnancies are an experience that can vary widely. We acknowledge that a miscarriage and a still born are not  the same and this leave policy is designed to be the starting point. Employees who experience or have a partner who experiences a miscarriage or pregnancy loss are eligible for at least two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave as well.
+
 *Managers - If someone on your team is experiencing this, please reach out to your PBP to help support you in supporting your team member during this horrible time.
+
 We hope none of you experience this type of loss but if you do, and if you would like to talk to someone in our company who has gone through this, let us know and we’ll help make an intro. You are not alone in navigating this and your People Business Partner and your manager are here to support you, however that looks.
 
 ### Paid Bereavement Leave
