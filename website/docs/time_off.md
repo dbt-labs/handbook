@@ -239,7 +239,7 @@ Below is a summary of our paid leave programs.
 | Parental Leave    	| 16 Weeks                 	| Intermittent    	| Paid Family Leave,State,Unum    	|                                                                                   	|
 | Medical Leave     	| 4 Weeks                  	| Continuous      	| State,Unum                      	| Capped at 8 weeks if a team member is granted two medical leaves within one year. 	|
 | Caregiver Leave   	| 4 Weeks                  	| Intermittent    	| Paid Family Leave               	|                                                                                   	|
-| Miscarriage/ Pregnancy Loss Leave Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 - 4 weeks is our starting point for the loss of pregnancy, we will support via additional time as needed                                                                                  	|
+| Miscarriage/ Pregnancy Loss Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 - 4 weeks is our starting point for the loss of pregnancy, we will support via additional time as needed                                                                                  	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
 Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
