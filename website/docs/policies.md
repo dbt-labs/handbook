@@ -454,12 +454,7 @@ It is our goal to create an environment where receiving critical feedback is nor
 
 #### 3. A generous severance policy is in the best interests of the company, the team, and the terminated employee.
 
-Our goal is to have a top-of-market severance policy in terms of both cash and benefits. In the US, as of this writing, that looks like up to a max of 12 weeks of severance (cash), dependent on tenure and termination circumstances, at your most recent annual base salary plus funds to cover your COBRA benefits for up to that same duration (COBRA funds, if applicable, will be added into the severance check). Although subject to change without notice, it is currently our policy to give this to all employees terminated for performance reasons (not terminations for misconduct), subject to exceptions in unusual circumstances
-
-There are two reasons for this why we think it is important to go above and beyond the industry standard of 2-4 weeks max:
-
-1. **We exist in an extremely fast-paced, high-rate-of-change environment.** In this type of environment, there is meaningful turbulence both for the organization and for its employees. Having a generous severance package buffers individuals from these effects and allows each of us to feel a degree of financial safety. Individuals lacking financial safety are [not able to be as creative or risk-tolerant](https://www.lse.ac.uk/business-and-consultancy/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf). This shouldn't be a surprise—you're simply not going to be your best self if you're worried about paying your bills. Having confidence that you'll be supported even through a termination process allows each of us to do our best work
-2. **We want employees to be able to think about the best interests of the company, even if that means their own employment relationship with the company would end.** It is a perhaps-counterintuitive outcome of our "We believe in moving up the stack" value that sometimes the right role for a person isn't with dbt Labs. We adopt an abundance mindset, and are confident that each of us can find the right role, whether at dbt Labs or elsewhere. This severance policy enables terminated employees the space to do just that.
+Our goal is to have a generous severance policy in terms of both cash and benefits. Amounts are determined based on tenure, level, and termination circumstances.
 
 #### 4. The team needs information to move forwards - departure announcement guidelines for managers.
 
