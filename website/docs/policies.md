@@ -454,7 +454,7 @@ It is our goal to create an environment where receiving critical feedback is nor
 
 #### 3. A generous severance policy is in the best interests of the company, the team, and the terminated employee.
 
-Our goal is to have a top-of-market severance policy in terms of both cash and benefits. 
+Our goal is to have a generous severance policy in terms of both cash and benefits. Amounts are determined based on tenure, level, and termination circumstances.
 
 #### 4. The team needs information to move forwards - departure announcement guidelines for managers.
 
