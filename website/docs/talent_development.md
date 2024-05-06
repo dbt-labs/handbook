@@ -58,8 +58,7 @@ For all individuals: this meeting will just be you and your manager (ideally, yo
 Employees must be in role for 4 or more of the 6 month evaluation period to be evaluated. 
 
 #### Performance Definitions
-
-[IMAGE](https://github.com/dbt-labs/handbook/blob/6c035346475403ff267371ba263082df32d72c08/website/static/img/PR%20Update%202024.png)
+![IMAGE](https://github.com/dbt-labs/handbook/blob/346a90fa6993732528a78c44aea15b988eb66a58/website/static/img/PR%20Update%202024.png)
 
 
 #### Calibration
@@ -76,7 +75,7 @@ Calibrations are a critical part of the Performance Review process. When done we
 - Leaders in each org meet as a group to calibrate on their ICs — this meeting is facilitated by the People Business Partner.
 - The e-team also receives all the evaluations and meets to review and discuss the performance review evaluation distribution across the org and their direct reports.
 
-Calibration involves comparing individual performance ratings against predefined standards and benchmarks, as well as aligning ratings across different evaluators or departments. In a standard performance review process, calibrations occur after managers write their employees’ reviews, but before those reviews are communicated to the employee. 
+    Calibration involves comparing individual performance ratings against predefined standards and benchmarks, as well as aligning ratings across different evaluators or departments. In a standard performance review process, calibrations occur after managers write their employees’ reviews, but before those reviews are communicated to the employee. 
 Prior to calibration sessions, senior leaders in each org should understand the feedback for all team members in their org. This may mean reviewing with a frontline manager on your team 1:1 to discuss their team, if they will not be included in the calibration session. Please work with your People Business Partner to determine who will be in the calibration session.
 
 ### Resources
