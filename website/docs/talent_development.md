@@ -18,7 +18,7 @@ sidebar_label: Talent Development
 ## Annual Review Cadence
 
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
-
+:hello-dog: 
 
 ### Types of Review Cycles
 
