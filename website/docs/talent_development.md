@@ -34,6 +34,7 @@ We use Culture Amp for our reviews and it can be accessed through Okta or [here]
 
 ### Cadence
 
+
 👉 Each review cycle happens twice per year, meaning we have 4 cycles **total**.
 
 Because of the relationship between performance, and compensation/ promotions, the review cycles are close together, while being separate. This also means that our operating calendar has space for large events (company kick off and Coalesce, for example) to happen without a review cycle in tandem.
