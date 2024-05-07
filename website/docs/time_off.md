@@ -59,7 +59,7 @@ When in doubt, please discuss with your manager about your plans.
 
 Note that because, in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
-For international employees, see [below]([#-international-considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
+For international employees, see [below](#international-considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
 #### 💪 Best practices for being out of the office 
 
