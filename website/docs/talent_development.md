@@ -58,7 +58,7 @@ For all individuals: this meeting will just be you and your manager (ideally, yo
 Employees must be in role for 4 or more of the 6 month evaluation period to be evaluated. 
 
 #### Performance Definitions
-![IMAGE](/website/static/img/PR%20Update%202024.png)
+![IMAGE](../static/img/PR%20Update%202024.png)
 
 
 #### Calibration
