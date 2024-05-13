@@ -46,7 +46,7 @@ While we pursue the mission with intense focus, we recognize that creating the c
 
 ### We work hard and go home.
 
-We take our responsibilities as parents, citizens, individuals, family members, and members of our various communities just as seriously as we take our commitments at work. When we are on, we are focused. When we are off, we are free to be fully disconnected.
+We are here to build something great—and we recognize the hard work and sacrifice that entails!—*but work isn’t our entire identity*. We are parents and children and siblings and friends and citizens and *humans*. These other identities matter to us! And to create space for them, we both accept the responsibility of creating our own individual boundaries and work to support the boundaries that others have set for themselves.
 
 ### We are human.
 
