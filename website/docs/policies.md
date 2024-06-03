@@ -24,7 +24,7 @@ sidebar_label: Policies
 
 [Computer Refresh Policy](#computer-refresh-policy)
 
-[Trans Inclusion Policy](#trans-inclusion-policy)
+[Trans-Inclusion Policy](#trans-inclusion-policy)
 
 [Involuntary Terminations](#involuntary-terminations)
 
