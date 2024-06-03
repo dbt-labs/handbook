@@ -24,6 +24,8 @@ sidebar_label: Policies
 
 [Computer Refresh Policy](#computer-refresh-policy)
 
+[Trans Inclusion Policy](#trans-inclusion-policy)
+
 [Involuntary Terminations](#involuntary-terminations)
 
 [Employment Posters (US)](#employment-posters-us)
@@ -279,6 +281,61 @@ Depending on the age of your Mac and the cost of any potential repairs, the Mac 
 - Laptops more than 3 years old or damaged beyond repair are decommissioned and erased by IT in accordance to NIST standards.
 - You will receive a shipping box with prepaid postage to return your Mac.
 - Old Macs will be e-recycled or donated.
+
+## Trans-Inclusion Policy
+
+dbt Labs is committed to creating a workplace where all employees feel welcome, valued, and supported.
+
+As part of this commitment, we have developed the following Trans-Inclusion Policy that addresses some of the unique issues affecting our transgender and gender non-conforming colleagues. For additional information or questions, contact your [People Business Partner](https://www.notion.so/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=21).
+
+Transitioning looks different for everyone. Individuals can transition socially, medically, and legally, but not every trans person will choose to transition in all of these ways. dbt Labs supports trans employees in making the choices that are best for them. [Learn more here about different types of transition.](https://www.brook.org.uk/your-life/transitioning/)
+
+### Rights
+
+At dbt Labs, all employees have the right to express their gender identity, characteristics, or expression without fear of consequences, while maintaining the professional expectations established in the Employee Handbook.
+
+Employees have the right to use the restroom and other facilities that correspond with their gender identity at dbt Labs offices, and to dress in a manner consistent with their gender identity.
+
+Employees have the right to be addressed by their preferred name and pronouns, and to have these preferences updated in company systems and records upon request. Some records, such as those related to payroll, insurance coverage, and retirement accounts, may require proof that the employee has legally changed their name or sex designation. If the employee’s legal name does not match their new name, dbt Labs will update all records that can be changed without a legal name change to match the employee’s preferred name.
+
+An individual’s transition will be treated as confidential and disclosed only on a need-to-know basis. We encourage employees to participate in the necessary education of their coworkers around their transition at whatever level they feel comfortable.
+
+We expect employees to work with dbt Labs to ensure we understand your reasonable needs and you understand the reasonable expectations of you surrounding transition in the workplace.
+
+### Updating Personal Details
+
+Employees who are transitioning may choose to update their personal details, such as their names and pronouns. When requested by an employee, dbt Labs will work with the employee to ensure that these updates are made in a timely and respectful manner.
+
+[For detailed instructions on name changes, click here.](https://www.notion.so/dbtlabs/How-To-Name-Changes-febdc1c71dd54610b0c2aee39b818e3c?pvs=4)
+
+### Medical Transition Support
+
+dbt Labs supports employees who are transitioning. Employees who are medically transitioning are encouraged to speak with their manager or their [People Business Partner](https://www.notion.so/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=21) to discuss any support they may need.
+
+**Additional avenues for resources and support include**:
+
+[**EAP (Employee Assistance Programs)**](https://handbook.getdbt.com/docs/getting_support#employee-assistance-programs)
+EAP services can help provide employees with short-term counseling, as well as financial planning, legal support, and support in reducing medical bills.
+
+**Health Related Travel Benefit**
+dbt Labs will reimburse up to USD$4,000 in travel expenses annually to cover gaps in access for any team member (including their dependent(s)) who are required to travel to obtain medical care that is not available in their country or state of residence.
+
+[See the Health Related Travel Benefit section for complete details.](https://handbook.getdbt.com/docs/benefits#health-related-travel-benefit)
+
+**For US employees, both Cigna and Kaiser provide support and care as part of our coverage:**
+
+[Cigna Transgender Treatment Details](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8374ad85-5eb5-4707-b7a4-b23806d9db1e/Cigna_Transgender_Treatment_Details.pdf)
+
+[Cigna Coverage Overview](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e023af6c-212f-455e-9736-229b3a744205/Cigna_Coverage_Overview.pdf)
+
+[Kaiser National transgender Flyer](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1e8fea5-f60b-4866-89f6-fe5f31a4cb1d/Kaiser_National_transgender_Flyer.pdf)
+
+[Kaiser Gender affirming resources](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92c28f80-140b-49ba-81e6-ba92928d8eb7/Kaiser_Gender_affirming_resources.pdf)
+
+[HealthJoy](https://app.strivebenefits.com/dbt/healthjoy?country=us) - Personal Benefits Concierge service that can help assist with understanding what’s covered and finding the best care available. HealthJoy is helpful for general policy questions, finding a provider, and contesting billing issues on your behalf, but a representative from Cigna or Kaiser will be able to answer more specific policy questions.
+
+### Reporting Discriminatory Behavior
+Full details on our [Anti-Harassment and Discrimination Policy](#anti-harassment-and-discrimination-policy) can be found in the dbt Labs Code of Conduct, along with our [Open Door / Speak Up Policy](#open-door--speak-up-policy) that ensures that no individual will be retaliated against for making a complaint in good faith regarding a violation of these policies.
 
 ## Involuntary Terminations
 
