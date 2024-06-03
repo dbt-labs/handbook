@@ -18,7 +18,7 @@ sidebar_label: Benefits and Perks
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
 
-[Health Related Travel Benefit](#health-related-travel-benefit)
+[Health-Related Travel Benefit](#health-related-travel-benefit)
 
 [Retirement](#retirement-us)
 
