@@ -16,8 +16,9 @@ sidebar_label: Benefits and Perks
 - [How to Get Support with Healthcare Benefits (US)](#how-to-get-support-with-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
-- [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
+
+[Health-Related Travel Benefit](#health-related-travel-benefit)
 
 [Retirement](#retirement-us)
 
@@ -119,34 +120,6 @@ Learn more:
 - [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
 - [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
-### Health Related Travel Benefit (US)
-
-Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
-
-📌 We believe that it’s imperative that our team members have access to the quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
-
-Many states have introduced legislation to reduce or restrict access to critical healthcare, including abortion care and gender-affirming care. This is in direct conflict with our values at dbt Labs and this policy is designed to support access to adequate healthcare for our team members across the United States who do not have access where they live. 
-
-[^1]: Resets with the fiscal year on February 1. 
-
-**Eligible travel expenses include:**
-
-- Transportation (reasonable flights, trains, taxis, buses, etc)
-- Reasonable Lodging
-- Meals
-- Transportation, lodging and meals expenses for one support person who accompanies the team member.
-
-**Who is eligible?**
-
-- All team members or any dependent who is enrolled in dbt Labs health insurance is eligible for this reimbursement; which will be paid directly by us (not by the insurance company). The net total annual benefit (for each team member and their dependents combined) is $4,000.
-
-**In order to maintain privacy and ensure that folks are comfortable leveraging this reimbursement, please follow the process below:**
-
-1. Email receipts directly to Megan Pittman (megan.pittman@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
-2. Reimbursements will be processed directly through payroll. 
-    1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
-3. If you need support relating to out-of-state travel for healthcare purposes, please contact Megan directly.
-
 ### International Travel Emergency Health Benefits (US)
 
 Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
@@ -158,6 +131,37 @@ Emergencies are generally classified as any symptoms that might be “limb or li
 Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to assess medical conditions over the phone and make suggestions for care (find these numbers on the back of your insurance card).
 
 Learn how to use this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
+
+## Health-Related Travel Benefit
+
+📌 We believe that our team members must have access to the healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to USD$4,000 in travel expenses annually[^1] to cover gaps in access for any team member (including their dependent(s)) who are required to travel to obtain medical care that is not available in their country or state of residence.
+
+Many local governments in the US and globally have introduced legislation to reduce or restrict access to critical healthcare, including but not limited to reproductive health care, abortion care, and gender-affirming care. This is not aligned with our values at dbt Labs, and the Health-Related Travel Benefit is designed to support our team members who are required to travel to obtain necessary medical care.
+[^1]: Resets with the fiscal year on February 1. 
+
+**Eligible travel expenses include:**
+
+- Transportation (reasonable flights, trains, taxis, buses, etc)
+- Reasonable Lodging
+- Meals
+- Transportation, lodging and meals expenses for one support person who accompanies the team member.
+
+The net maximum annual benefit (for each team member and their dependents combined) is USD $4,000. Reimbursements will be paid directly from dbt Labs (not submitted for reimbursement to any health insurance benefit or any other employee benefits program), and be added directly to payroll.
+
+dbt Labs has a [form that the provider clinic will need to complete](https://docs.google.com/document/d/1gxRDUYSQf_KVYXl4TbR-xfgxLYWKbJmUmyKDv9XRjxU/edit?usp=sharing) and return to verify and distribute reimbursements. dbt Labs does not need any information about the type of healthcare received. All information collected in connection with this benefit will be maintained subject to dbt Lab’s employee privacy policies.
+
+### Global
+
+dbt Labs offers this benefit in compliance with all local and international laws and our health insurance and similar employee benefits programs. Anyone employed through an EOR (Employer of Record) or through a dbt Labs local entity should reach out to Megan Pittman (megan.pittman@dbtlabs.com) before planning travel.
+
+### US
+In order to maintain privacy and ensure that employees are comfortable leveraging this reimbursement, please follow the process below:
+1. Have the provider clinic send the completed health-related travel benefit form directly to Megan Pittman (megan.pittman@dbtlabs.com). Please do not include any information about the type of healthcare received.
+2. Email receipts directly to Megan Pittman (megan.pittman@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel benefit expenses, but we do not require more information than that.
+3. Reimbursements will be processed directly through payroll.
+
+If you have questions or need support relating to out-of-state travel for healthcare purposes, please contact Megan Pittman (megan.pittman@dbtlabs.com) directly.
+
 
 ## Retirement (US)
 
