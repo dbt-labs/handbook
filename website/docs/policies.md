@@ -51,7 +51,7 @@ Furthermore, dbt Labs is committed to protecting the rights of those individuals
 
 ### Equal Employment Opportunity
 
-dbt Labs is an Equal Opportunity Employer that does not discriminate on the basis of race, color, national origin, ancestry, sex, pregnancy (which includes childbirth, breastfeeding and medical conditions related to pregnancy, childbirth or breastfeeding), gender identity, gender expression, religion, disability, genetic information, age, marital status, sexual orientation, military and veteran status, family and medical leave, or any other characteristic protected by federal, state or local law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
+dbt Labs is an Equal Opportunity Employer that is committed to creating an inclusive workplace where all employees are treated with respect and dignity. We do not tolerate discrimination or harassment on the basis of race, color, national origin, ancestry, sex, pregnancy (which includes childbirth, breastfeeding and medical conditions related to pregnancy, childbirth or breastfeeding), gender identity, gender expression, religion, disability, genetic information, age, marital status, sexual orientation, military and veteran status, family and medical leave, or any other characteristic protected by federal, state or local law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
 
 dbt Labs will endeavor to accommodate the sincere religious beliefs of its employees to the extent such accommodation does not pose an undue hardship on dbt Labs' operations, and make reasonable accommodations for qualified individuals with disabilities to, at least, the extent required by law. If you wish to request such an accommodation, please speak to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
@@ -69,6 +69,8 @@ Sexual harassment is defined as unwelcome sexual advances, requests for sexual f
 3. Such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment.
 
 Examples of sexual harassment include, but are not limited to: unwelcome or unsolicited sexual advances; displaying sexually suggestive material; unwelcome sexual flirtations, advances or propositions; suggestive comments; verbal abuse of a sexual nature; sexually-oriented jokes; crude or vulgar language or gestures; graphic or verbal commentaries about an individual’s body; display or distribution of obscene materials; physical contact such as patting, pinching or brushing against someone’s body; or physical assault of a sexual nature.
+
+Any employee who experiences or witnesses discrimination or harassment on the basis of any protected class should report it to their manager or their People Business Partner, or to our [Anonymous Reporting Hotline](https://handbook.getdbt.com/docs/getting_support#anonymous-hotline). dbt Labs will investigate all reports of discriminatory behavior and take appropriate remedial action when necessary. No individual will be retaliated against for reporting any concern regarding discrimination, harassment, or other mistreatment on account of any protected class.
 
 ### Human Rights
 
@@ -324,13 +326,11 @@ dbt Labs will reimburse up to USD$4,000 in travel expenses annually to cover gap
 
 **For US employees, both Cigna and Kaiser provide support and care as part of our coverage:**
 
-[Cigna Transgender Treatment Details](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8374ad85-5eb5-4707-b7a4-b23806d9db1e/Cigna_Transgender_Treatment_Details.pdf)
+[Cigna Transgender Treatment Details](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Cigna_Transgender%20Treatment%20Details.pdf)
 
-[Cigna Coverage Overview](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e023af6c-212f-455e-9736-229b3a744205/Cigna_Coverage_Overview.pdf)
+[Kaiser National transgender Flyer](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Kaiser%20National%20transgender%20Flyer.pdf)
 
-[Kaiser National transgender Flyer](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1e8fea5-f60b-4866-89f6-fe5f31a4cb1d/Kaiser_National_transgender_Flyer.pdf)
-
-[Kaiser Gender affirming resources](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92c28f80-140b-49ba-81e6-ba92928d8eb7/Kaiser_Gender_affirming_resources.pdf)
+[Kaiser Gender affirming resources](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Kaiser%20Gender%20affirming%20resources.pdf)
 
 [HealthJoy](https://app.strivebenefits.com/dbt/healthjoy?country=us) - Personal Benefits Concierge service that can help assist with understanding what’s covered and finding the best care available. HealthJoy is helpful for general policy questions, finding a provider, and contesting billing issues on your behalf, but a representative from Cigna or Kaiser will be able to answer more specific policy questions.
 
