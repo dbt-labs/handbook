@@ -326,7 +326,9 @@ dbt Labs will reimburse up to USD$4,000 in travel expenses annually to cover gap
 
 **For US employees, both Cigna and Kaiser provide support and care as part of our coverage:**
 
-[Cigna Transgender Treatment Details](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Cigna_Transgender%20Treatment%20Details.pdf)
+[Cigna Transgender Treatment Flyer](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Cigna_Transgender%20Treatment%20Details.pdf)
+
+[Cigna Gender Dysphoria Treatment Details](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/mm_0266_coveragepositioncriteria_gender_reassignment_surgery%20(1)%20(1).pdf)
 
 [Kaiser National transgender Flyer](https://8698602.fs1.hubspotusercontent-na1.net/hubfs/8698602/Kaiser%20National%20transgender%20Flyer.pdf)
 
