@@ -243,9 +243,9 @@ Failure to abide by these expectations may result in disciplinary action, includ
 
 ### Software Purchases
 
-Software purchases that assist in executing one’s role and day-to-day responsibilities, i.e. Dux Soup, Microsoft Azure, GitKraken, should be purchased using an Airbase Virtual Card. To request a virtual card, please follow the [Procurement Process](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7). These purchases should go through a virtual card as they allow us to track software spend more accurately, identify duplicative subscriptions, and consider appropriate security implications of using the software.
+In compliance with company policy, it is strictly prohibited to use personal credit cards for purchasing software and cloud services related to your role and responsibilities within the company. Any purchases made in violation of this rule will not be reimbursed, and may result in disciplinary action.
 
-Software purchases that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](benefits.md#professional-development-stipend) through [Benepass](benefits.md#how-to-use-benepass---perks--stipend-platform).
+Software purchases (for personal use only) that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](benefits.md#professional-development-stipend) through [Benepass](benefits.md#how-to-use-benepass---perks--stipend-platform).
 
 ### FAQs
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
