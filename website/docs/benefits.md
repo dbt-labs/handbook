@@ -427,7 +427,7 @@ We understand that working from home does not work for everyone. All dbt Labs em
 
 ### Getting Help
 
-- Learn how to use your benefit and answers to FAQs [here](https://www.notion.so/draft-How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=21).
+- Learn how to use your benefit and answers to FAQs [here](https://www.notion.so/dbtlabs/How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=4#83aafa68b7bb4ac885161a671077c94b).
 - For general questions about this benefit, submit a helpdesk ticket to the benefits team.
 - For questions about budget for your team gathering, contact your finance business partner.
 
