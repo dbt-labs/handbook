@@ -404,66 +404,32 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 
 ## Workplace Rental 
 
-We understand that working from home does not work for everyone. All dbt Labs mployees receive a monthly benefit to rent office space and experience an optimal work environment.
-
-**We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:**
-
-- $250 per month in workplace rental coverage for all employees through [Liquidspace](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain) 
-- $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
+We understand that working from home does not work for everyone. All dbt Labs employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
 **This benefit is important because:**
 
-- **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
-- **Community:** Provides opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.  
+- **Productivity**: Our remote-first, async culture empowers employees to "work from anywhere," not just "work from home." The ***primary goal*** of offering workplaces outside the home is to enable employees to create their ideal work environment.
+- **Community:** Provides opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
 
-🖐️  In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate. Please keep in mind that the main goal of this benefit is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
+**🖐️ Use this benefit thoughtfully:** In-person or external workplace benefits shouldn't impede remote employees' collaboration. The primary aim is to enhance your work environment. When collaborating in a co-working space, ensure you include all necessary participants. If a project or collaboration can be effectively managed via Zoom or asynchronously, opt for those methods to avoid excluding anyone.
 
-### FAQs
+### Budget
 
-#### What is Liquidspace and how do I use it?
+- **Individual Budget:** Employees can use or expense up to **$300 per month** (or localized international rate) on a workplace rental option for their individual use.
+- **Leader Budget:** Directors (L7+) and above can book larger conference room / work spaces to support in-person meetings for teams up to **$1500 per quarter** (or localized international rate)**.** For offsites, work with your [finance business partner](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=21) to evaluate options within your org’s travel budget.
 
-About Liquidspace: Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. 
+### Workplace Rental Options
 
-To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
+- **Rental vendors:** [**Learn more**](https://www.notion.so/draft-How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=21) about how to use these vendors.
+    - **Liquidspace:** Liquidspaces offers broad-ranging options in a variety of locations.
+    - **WeWork:** WeWork supports a more consistent workplace experience in major cities.
+- **Reimbursement option:** If you can’t find a workplace location that meets your needs through our vendors, you can submit for reimbursement, up to $300/month (or localized international rate).
 
-When you begin searching in your area of choice, you will find desks, private offices, and meeting rooms, along with the pricing (per hour, 1/2 day, and full-day).  You can book spaces in advance and some are even available the same day! 
+### Getting Help
 
-Please join our LiquidSpace slack channel #liquidspace-workplace-experience to ask questions, share great places to book and find others in your area to co-work with!
-
-#### When should I use Liquidspace vs a dbt Labs office?
-
-When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability. If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
-
-#### What if I want to rent a different workspace for the day that is not available on Liquidspace?
-
-We do not reimburse one-time workplace rental expenses for locations outside the Liquidspace platform. 
-
-However, if you are looking for a space and there are no viable or available options near you in LiquidSpace, and you can find space elsewhere, you may use your personal card and expense the cost up to $250/month.  Please use the expense code “Office Space” in Airbase. 
-
-#### Can I go over my budget on Liquidspace?
-
-No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, Liquidspace will not process the rental. 
-
-#### Is there an exception process if I want to rent a monthly space that is more expensive than my monthly budget?
-
-Yes! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
-
-Most monthly subscriptions are more than the $250 limit, so Liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on Liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
-
-#### Non-US-based Employees:
-
-LiquidSpace is available in many countries as well. If there is not a space near you on LiquidSpace, we want you to be able to work from anywhere as well! If this is the case, you can find space elsewhere, pay for your space with your personal card and expense, per month, up to:
-
-- $250 USD 
-- €228.58 EUR
-- £189.00 GBP
-- $336.61 AUD 
-- $364.86 NZD
-- $234.17 CHF
-- $318.38 CAD
-- 2596.05 SEK
-
-Learn more about how to use LiquidSpace to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
+- Learn how to use your benefit and answers to FAQs [here](https://www.notion.so/draft-How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=21).
+- For general questions about this benefit, submit a helpdesk ticket to the benefits team.
+- For questions about budget for your team gathering, contact your finance business partner.
 
 ## Wellness Program
 
