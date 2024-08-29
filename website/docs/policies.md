@@ -20,6 +20,8 @@ sidebar_label: Policies
 
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
 
+[Physical and Virtual Corporate Card Policy](#physical-and-Virtual-Corporate-Card-Policy)
+
 [Moonlighting Guidance](#moonlighting-guidance)
 
 [Computer Refresh Policy](#computer-refresh-policy)
@@ -163,92 +165,216 @@ By signing the handbook, you consent to your personal information being shared i
 
 ## Corporate Travel & Expense Policy
 
-### Our Philosophy
+#### Our Philosophy
 
-We strive to hire people who share our values and we trust our employees to do the right thing. Abuse of this trust is counter to the dbt Labs culture. This policy is meant to act as a guideline to assist employees in making good decisions around the use of dbt Labs’ resources during travel and other incidental expenses.
+Here at dbt labs, we are a human-first, remote company. We understand the importance and necessity of in-person connections to drive business objectives. We encourage those who need to travel for their roles and teams to do so. However, we ask that it is done responsibly. We strive to hire people who share our values and trust our employees to do the right thing. Abuse of this trust is counter to dbt Labs culture.
 
-- **Reimbursement requests for spend are to be submitted in Airbase within 30 days** of when they are incurred. Timely expense submission provides us with expense visibility and ensures we are capturing costs in the correct period.
-    - At fiscal quarter ends, the accounting team will request submission of all outstanding expenses to ensure appropriate expense capture in the period.
-- Managers are required to review expenses to ensure they are consistent with this policy.
-- To maximize our tax deductions, **receipts are required for spend greater than $50 USD** (or local equivalent).
+The Corporate Travel & Expense Policy is meant to act as a guideline to assist employees in making good decisions around the use of dbt Labs’ resources during travel and other incidental expenses. Travel arrangements should balance economics, safety, and logistics while accomplishing the business objective.
 
-These guidelines can’t cover every possibility, so use good judgment. If you’re still not sure, contact the Accounts Payable team at **ap@dbtlabs.com** or on the **#finance-support** Slack channel.
+#### Accountability
 
-### Travel Related Expenses
+- To ensure employee travel aligns with annual budgets and intended purposes, **leaders will receive a quarterly summary of non-compliant travel spend.** Please follow the policies to maintain compliance.
+- These policies and guidelines can’t cover every possibility, so use good judgment. If you’re not sure, contact the Accounts Payable team at [**ap@dbtlabs.com**](mailto:ap@dbtlabs.com) or in the **#ask-finance-support** Slack channel.
 
-Travel arrangements should balance economics, safety, and logistics while still accomplishing the business objective.
+### **Key Tenants of the Travel and Expense Policy:**
 
-- Plan meetings thoughtfully and in advance.
-    - To maximize cost savings, flights should be booked 10 days or more and hotels booked 7 days or more from the travel date.
-- **Book with Navan:** All business travel (including flight, hotel, rail and rental car) must be booked through Navan which can be accessed through Okta or [here](https://app.tripactions.com/app/). If you need to book outside of Navan, please submit a ticket in #ask-finance-support for Accounting approval.
+- **Book all business travel through Navan:**
+    - Use Navan to book all business travel (including flight, hotel, rail, and rental car). Even if you find a cheaper flight elsewhere, please book through Navan.
+    - Access Navan through Okta or [here](https://app.tripactions.com/app/).
+- **Submit reimbursement requests for expenses in Airbase within 30 days of the expense date**.
+    - Timely expense submission provides us with expense visibility and ensures we are capturing costs in the correct period.
+- **Receipts are required for spend greater than $50 USD (or local equivalent).**
+    - This requirement is applicable to expense reports, physical cards, and virtual cards. It helps us maximize our tax deductions.
+- **Managers are required to review Airbase expense reimbursements and Navan bookings** to ensure they are consistent with the policies in this document.
+- **Expense codes are required to track the travel type when booking travel (Navan) or submitting for expense reports (reimbursements or physical cards).**
+    - This helps give insights into the overall company’s travel trends.
+    - When submitting in Airbase always use the Tag > Class and select the appropriate expense codification from the list below. The code on the report should be based on the general activity or behavior the expenses came from and selected from the list below.
+ 
+### Travel and Lodging Policy
 
-[Book Travel](https://www.notion.so/Book-Travel-9953198a0c37487db7dfda2c76b6b7e9)
+#### International Travel:
 
-#### Airfare
+International travel is defined as travel between our established regions, which are AMER, LATAM, APAC, and EMEA. 
 
-As a general rule, all flights should be booked in economy class, with the following exception:
+**International travel requires a thoughtful approach as we grow and become an increasingly geographically diverse company:**
 
-- Travelers booking flights of 5 (five) hours or longer one-way (excluding layovers) may book Premium Economy as available. Business class and First class upgrades are not a reimbursable expense.
-- L8 and above travelers booking flights 12 (twelve) hours or longer or taking a red eye that is 5 (five) hours or longer may book business class.
+- Employees need approval from their department head before traveling to a different region.
+- Managers of a centrally located team in a region different from their own can travel to their teams 1x per year, per region.
+    - Ex. A manager in the US has a team primarily located in the Philippines; this manager is allowed to visit their APAC team 1x a year.
+- Employees attending an event outside their base region and eligible for international travel are permitted to book one (1) additional night before the event to adjust to the time change.
 
-Unless provided with other instructions, choose non-refundable options as these are more cost effective than refundable options. 
+**International Travel for Offsites (excluding CKO):**
 
-#### Lodging
+- If a team spanning multiple regions is significantly (≥25%) geographically diverse, offsites should be supported in a virtual or hybrid environment.
+- The offsite locations should be changed over time to ensure face-to-face and in-person gatherings for those in the different regions.
+- When reviewing team member travel for international offsites, we encourage and recommend the following approach:
+    - L7s and higher may travel internationally for offsites
+    - International travel for L6s and below should be reviewed more intentionally. If approved by the departmental leader and the costs fit within the leader’s budget, L6s and below may travel internationally for offsites.
+        - Before booking, departmental approval must be submitted to travel@dbtlabs.com.
+        - If support for international travel for an offsite is not submitted, we reserve the right to cancel the booking in Navan
 
-Choose safe and comfortable hotel accommodations near the venue or purpose of travel to minimize additional commuting time and costs. If you need to change or cancel your reservation, it is your responsibility to cancel your stay in Navan prior to your intended travel to avoid “no-show” charges.
+**Navan Booking Requirements for International Travel:**
 
-#### Ground Travel & Rental Cars
+- Book 45 days in advance of the event (applicable to all departments)
+- Book **refundable** hotels
+- Book **refundable** flight options
+    - Note this **differs from domestic travel guidance**, where nonrefundable options should be selected
+- Only in-policy booking options should be selected. Navan will indicate if a booking is out-of-policy; out-of-policy options should not be selected
 
-Business ground travel including train, taxi and ride-sharing (i.e. Uber, Lyft) are reimbursable. Book the most economical option, where available. The use of rental cars or car-sharing (i.e. Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.   Review the guidelines for purchasing rental insurance: [Automobile Rental Guidelines.pdf](https://github.com/dbt-labs/handbook/files/11233508/Automobile.Rental.Guidelines.pdf).
+#### Domestic Travel:
 
-#### Meals & Entertainment
+**Domestic travel** is defined as travel taken within one's original region (AMER, LATAM, APAC, and EMEA). 
 
-Meals and entertainment expenses incurred for business purposes are reimbursable. The names of all attendees (employees, customers, prospects) must be included in the expense notes. 
+We understand that domestic travel required for individual roles varies. Based on current travel metrics from Navan, we ask the following lead time be used for booking transportation and lodging across all regions:
+
+- **Sales and Solution Architecture:**
+    - Book transportation and lodging 7 days or more before the trip
+- **All other departments:**
+    - Book transportation and lodging 30 days or more before the trip
+
+**Below are the Navan booking requirements for domestic travel:**
+
+- Book **refundable hotels**
+- Book **non-refundable flights**
+    - Note this **differs from international travel guidance**, where **refundable** flights should be selected
+- Book according to the departmental lead time discussed above.
+- Only in-policy booking options should be selected. Navan will indicate if a booking is out-of-policy; out-of-policy options should not be selected.
+
+#### Domestic and International Airfare Policy:
+
+As a general rule, **all flights should be booked in economy class, with the following exceptions:**
+
+- Travelers booking flights of 7 (seven) hours or longer one-way (excluding layovers) may book Premium Economy as available.
+- C-level executives booking international travel or taking a red eye that is 7 (seven) hours or longer may book business class. No other employees are eligible for booking or reimbursement of business-class flights.
+
+Premium Economy, Business class, and First class flights and/or upgrades are not reimbursable expenses and will be rejected if they do not meet the criteria above.
+
+- Employees can use personal frequent flyer miles or points for upgrades on business travel; however, employees will not be reimbursed for any respective charges
+
+**Refundable vs Non-Refundable Flights:**
+
+- Non-refundable flights should be booked for domestic travel
+- Refundable flights should be booked for international travel
+
+#### Domestic and International Lodging Policy:
+
+- Choose safe and comfortable hotel accommodations near the venue to minimize additional commuting time and costs.
+- **Navan booking requirements for domestic travel:**
+    - Only in-policy, refundable options should be selected for lodging in Navan.
+    - If you need to change or cancel your reservation, it is your responsibility to cancel your stay in Navan prior to your intended travel to avoid “no-show” charges.
+- **Airbnbs are not permitted to be booked for lodging without prior approval from your department head and Finance & Strategy Partner.**
+    - When submitting the Airbnb for reimbursement in Airbase, evidence of approval from an individuals manager and department head must be provided in the expense report submission for the reimbursement to be approved. If not provided, the expense is subject to rejection.
+
+#### Ground Travel & Rental Cars:
+
+- Business ground travel, including train, taxi, and ride-sharing (e.g., Uber, Lyft), is reimbursable.
+- Rental cars or car-sharing (e.g., Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.
+    - If a rental car is necessary, book one through Navan. Review the guidelines for purchasing rental insurance: [Automobile Rental Guidelines.pdf](https://github.com/dbt-labs/handbook/files/11233508/Automobile.Rental.Guidelines.pdf).
+
+### Meals, Entertainment and Other Reimbursable Expenses Policy
+
+When completing business travel, meals and entertainment spending should be reasonable and not excessive. All expense reimbursements should be submitted in Airbase.
+
+#### **Per Diem**
+
+For all dbt Labs required travel, employees will be reimbursed for food and beverages purchased during the trip. This is subject to a $130 per-day per diem maximum. The per diem includes all food and drink purchased within a day and is applicable to all employees. In the event of group meals, the price per attendee should not exceed a reasonable portion of the total per diem.
+
+#### **Customer Meals & Entertainment**
+
+Meals and entertainment shared with customers or prospects **are not subject to the per diem guidance**. Use your discretion and leverage the “Customer Visit/Partner Visit” expense code to tag your expense when submitting in Airbase for reimbursement. 
 
 #### Use of Personal Vehicles
 
-Mileage is reimbursable for business travel using your personal vehicle (i.e. driving to a customer or an offsite). You will be reimbursed at the applicable IRS mileage rate, which includes fuel costs.  Make sure you have adequate insurance coverage for your vehicle. Your normal commute (i.e. from home to the office) is excluded from mileage reimbursement.
+Mileage is reimbursable for business travel using your personal vehicle (i.e. driving to a customer or an offsite). You will be reimbursed at the applicable IRS mileage rate, which includes fuel costs. Make sure you have adequate insurance coverage for your vehicle. Your normal commute (i.e. from home to the office) is excluded from mileage reimbursement.
 
-#### Internet while Traveling
+#### Internet While Traveling
 
-Hotel and airline Wi-Fi internet fees during business travel (i.e., GoGo In Flight) are reimbursable. Hotel and airline Wi-Fi internet fees during personal travel are not reimbursable. 
+Hotel and airline Wi-Fi internet fees during business travel (i.e., GoGo In Flight) are reimbursable. Hotel and airline Wi-Fi internet fees during personal travel are not reimbursable.
 
 #### Traveling Parents
 
 The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursable for breastfeeding parents on work travel.
 
-### Other Reimbursable Expenses
+#### Airbase Expense Report Guidance
 
-#### Stipends
+The following should be included on expense reports submitted in Airbase:
 
-Stipends, as part of our benefit program, are reimbursed primarily through Benepass. Learn more [here](benefits.md#stipends).
+- Names of all attendees (employees, customers, prospects)
+- Event name
+- Expense Code
+    - Team Offsite
+    - Leadership Meetup
+    - Customer Visit/ Partner Visit
+    - Coalesce
+    - CKO
+    - Sales Sponsored Travel
+    - MKTG - XXXXX | Marketing Event-related expenses
+    - Misc. (all others are not applicable)
 
-#### Employee Relations and Team Events
+At the end of the fiscal quarter, the accounting team will request the submission of all outstanding expenses to ensure appropriate expense capture in the period.
 
-Each department has up to $100 per employee per quarter to spend on team-building activities. As the benefit is intended for team building, gifts or gift cards are not allowable for this program. Note that the budget does not rollover; it is a use it or lose it budget per quarter.
+### Resources and FAQs
+Find more Corporate T&E resources and answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-Resources-548ecc94f5274cba9221ce675be94997?pvs=4).
 
-Managers should request a virtual airbase card ([instructions here](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7) and provide the names of the attendees, dates, and a note of what quarter this is for. Use the expense category of **Employee Relations** in Airbase.
+## Physical and Virtual Corporate Card Policy
 
-### Corporate Cards
+The distribution of corporate cards (physical and virtual) at dbt Labs is limited. If you have a corporate card, only business-related expenses are permitted to be charged, and you must adhere to the Corporate Travel and Expense Policy. Your corporate card spend is part of the corporate budget. Using a corporate card is a benefit, so we ask you to do your part in operationalizing its use.
 
-The distribution of corporate cards (physical and virtual) at dbt Labs is limited. If you have a corporate card, only business-related expenses are permitted to be charged and you must adhere to the Corporate Travel and Expense Policy. Personal expenses and stipend purchases are not permitted. If a personal charge is made to your corporate card, the Company has the right to deduct the value of these charges from your paycheck; the decision will be made by the Head of Accounting. Your corporate card spend is part of the corporate budget, so keep in mind budget considerations. The use of a corporate card is a benefit, and so we ask you to do your part in operationalizing its use. 
+### Physical and Virtual Corporate Card Expectations
 
-Categorization and providing a description of all transactions should be provided as soon as the charge is incurred, regardless of the charge amount.  At a minimum, physical card owners are expected to code and provide a description for all monthly transactions by the **2nd business day of the subsequent month**, regardless of the $$$ amount.
+- Card transaction categorization, department coding, and business purpose for all monthly transactions must be provided in Airbase by **the last business day of the month**, regardless of the amount.
+    - Best practice is to provide transaction categorization, departmental coding, and a business purpose at the time of the charge.
+- Receipts for all transactions within a quarter greater than $50 must be provided by the 1st business day of the subsequent month for virtual and physical cardholders
+    - Best practice is to provide the receipt at the time of the charge.
+- Physical and virtual cards are not to be shared across departments and employees.
 
-Receipt submission (if greater than $50) should be provided as soon as the charge is incurred.  At a minimum, physical card owners are expected to provide receipts for all quarterly transactions **over $50** by the 2nd business day of the subsequent quarter.
+#### Physical Cards: Permitted and Non-Permitted Spending
 
-📢 **Non-compliance with the above deadlines will be [tracked](https://docs.google.com/spreadsheets/d/18JlnTg1WmjTU9gyWfaDQYN5odr7ZD4GpTLy3ceFbJeM/edit#gid=0) and should there be 3 consequent non-compliance events, the physical card will be revoked.**
+The following lists outline permitted and non-permitted expenses for physical cards. Please note the lists are not exhaustive. If you are unsure if a type of spend is allowed on your physical card, please submit a ticket to **#ask-finance-support.**
 
-Failure to abide by these expectations may result in disciplinary action, including revoked card privileges, termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that any suspected misappropriation of our shared resources will be taken extremely seriously.**
+**Permitted Expenses**
+
+- On-site event purchases such as pens, name tags,
+- Individual meals
+- Uber, taxis, subway tickets
+
+**Non-Permitted Expenses**
+
+- Vendor bills or other spend that should go through the procurement process
+- Software
+- Company stipends
+- Personal expenses
+
+#### **Virtual Cards: Permitted and Non-Permitted Spending**
+
+The following lists outline permitted and non-permitted expenses for virtual cards. Please note the lists are not exhaustive. If you are unsure if a type of spend is allowed on your virtual card, please submit a ticket to **#ask-finance-support.**
+
+**Permitted Expense.**
+
+- Vendor bills, once reviewed and approved through the procurement process
+
+**Non-Permitted Expenses**
+
+- Company stipends
+- Personal expenses
+
+#### Corporate Card Non-Compliance
+
+Physical and virtual card spending will be reviewed quarterly for non-compliance. Any non-compliance with categorization, providing receipts, and the allowable spending permitted on corporate cards may result in the revocation of physical card privileges. Non-compliance will be communicated as follows:
+
+- First Instance - Message from the Accounts Payable team to the individual communicating non-compliance and how to resolve
+- Second Instance - Message from the Accounts Payable team to the individual and the individual’s manager communicating non-compliance and how to resolve
+- Third Instance - Message from the Accounts Payable team to the individual, the individual’s manager, and the department head communicating non-compliance and that corporate card privileges are under review for revocation
+
+Three or more instances of non-compliance  **may result in the revocation of physical and/or virtual card privileges. Return of physical and/or virtual card privileges is subject to the Accounting department’s discretion.** 
+
+Failure to abide by these expectations may result in disciplinary action, including revoked card privileges, termination, and, worst case, criminal proceedings. **While we do not expect this to be an issue, it's essential to be clear that any suspected misappropriation of our shared resources will be taken extremely seriously.**
 
 ### Software Purchases
 
 In compliance with company policy, it is strictly prohibited to use personal credit cards for purchasing software and cloud services related to your role and responsibilities within the company. Any purchases made in violation of this rule will not be reimbursed, and may result in disciplinary action.
 
 Software purchases (for personal use only) that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](benefits.md#professional-development-stipend) through [Benepass](benefits.md#how-to-use-benepass---perks--stipend-platform).
-
-### FAQs
-Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
 
 ## Moonlighting Guidance
 
