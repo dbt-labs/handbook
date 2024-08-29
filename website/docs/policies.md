@@ -20,7 +20,7 @@ sidebar_label: Policies
 
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
 
-[Physical and Virtual Corporate Card Policy](#physical-and-Virtual-Corporate-Card-Policy)
+[Physical and Virtual Corporate Card Policy](#physical-and-virtual-corporate-card-policy)
 
 [Moonlighting Guidance](#moonlighting-guidance)
 
