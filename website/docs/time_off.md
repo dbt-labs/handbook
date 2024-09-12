@@ -122,7 +122,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Day after Independence Day- Friday, July 5, 2024
 - Friday before Labor Day, Friday- August 30, 2024
 - Labor Day- Monday, September 2, 2024
-- Columbus Day- Monday, October 14, 2024
+- Indigenous Peoples' Day- Monday, October 14, 2024
 - Thanksgiving- Thursday, November 28, 2024
 - Friday after Thanksgiving- Friday, November 29, 2024
 - Christmas- Wednesday, December 25, 2024
