@@ -8,7 +8,7 @@ sidebar_label: Working Here
 |---|
 | Megan Pittman |
 | Leigh Staub |
-| Morgan Russell |
+| Finn Russell |
 
 [Distributed Work Experience](#distributed-work-experience)
 
@@ -150,12 +150,13 @@ dbt Labs
 STE 500
 Philadelphia, PA 19123
 
-### San Francisco, CA 
+### Austin, TX
 
 dbt Labs
-650 California Street
-Suite 1501 / 1502
-San Francisco, CA 94108
+522 Congress Avenue
+Suite 700 
+Scarbrough Building 
+Austin TX 78701
 
 ### New York, NY 
 
