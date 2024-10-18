@@ -10,6 +10,8 @@ sidebar_label: Compensation
 | Clyde Stackhouse |
 | Jessica Nguyen |
 
+- Test
+
 [Compensation Principles](#compensation-principles)
 
 [Pay Day](#pay-day)
