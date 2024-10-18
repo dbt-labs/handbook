@@ -49,6 +49,8 @@ As a global company, below are our guiding principles that we follow when design
 
 #### How does this apply today?
 
+- Test Flag
+
 Today our global team falls into one of two buckets. 
 
 **Employed through an EOR (Employee of Record) -** Employees that are hired and work for an EOR are subject to the benefits offerings that are provided through their service. However, we will operate within our philosophy above which means we will elect premium coverage and options as they become available through the EOR. Additionally, all related perks remain available and intact for team members employed through an EOER (ie. Office stipends, Professional Development, etc).
