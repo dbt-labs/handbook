@@ -267,11 +267,11 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - Ergonomic accessories
 - Adapter/cords to connect the above items to your laptop computer
 - Lighting
+- Tablets or Tablet accessories
 
 #### Items Not Eligible
 
 - Phones
-- Tablets or Tablet accessories
 - Couches
 - Living room chairs
 - Paint & Wallpaper
