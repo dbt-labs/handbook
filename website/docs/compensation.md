@@ -346,7 +346,7 @@ Dilution happens to all companies as they issue new equity over time. For exampl
 
 - **Grant Date**: The grant date is the date that the board approves the grant. Your grant date will almost always be after your vesting date.
 - **Vesting Date**: The vesting date will generally align to either your hire date (for new hire grants) or your promotion or review date (for refresh or promotion grants). This is when your vesting schedule starts.  If the grant date occurs after your vesting date, that does not change your vesting date.
-- **Exercise Window:** Exercise window may vary depending on when you were hired. Please reference your equity agreement.
+- **Exercise Window:** Exercise window may vary depending on when you were hired. Please reference your equity agreement and learn more [here](https://www.notion.so/dbtlabs/Departure-Guide-Checklist-c23e97c90bf54eacacefb7fb034afd7b?pvs=4#4472f48ee166409fb484d3cede7e48fc).
 - **Option Expiration:** If not otherwise expired (through termination of your employment and not exercising within the exercise period), your stock options expire 10 years after the grant date.
 
 #### Taxes
