@@ -111,7 +111,91 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 
 You can view our holiday google calendar [here](https://calendar.google.com/calendar/u/0/embed?src=c_2a9305582c4692c95028462989a787bbd6703780cb6b380a29802f73922792ab@group.calendar.google.com&ctz=America/New_York).
 
-#### US Holidays
+#### 2025 US Holidays
+
+- New Year’s Day- **Wednesday, Jan 1, 2025**
+- MLK Day- **Monday, Jan 20, 2025**
+- President's Day- **Monday, February 17, 2025**
+- Memorial Day- **Monday,** **May 26, 2025**
+- Juneteenth- **Thursday**, **June 19, 2025**
+- Independence Day- **Friday, July 4, 2025**
+- Labor Day- **Monday, September 1, 2025**
+- Thanksgiving- **Thursday, November 27, 2025**
+- Friday after Thanksgiving- **Friday, November 28, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Canada Holidays
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- Family Day- **Monday, February 17, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Victoria Day- **Monday, May 19, 2025**
+- Canada Day- **Tuesday, July 1, 2025**
+- Civic/Provincial Day- **Monday, August 4, 2025**
+- Labour Day- **Monday, September 1, 2025**
+- National Day for Truth and Reconciliation- **Tuesday, September 30, 2025**
+- Thanksgiving Day- **Monday, October 13, 2025**
+- Remembrance Day- **Tuesday, November 11, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Australia Holidays
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- Australia Day Recognized- **Monday, January 27, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Anzac Day- **Friday, April 25, 2025**
+- Queen's / Sovereign’s Birthday- **Monday, June 9, 2025**
+- Labour Day- **Monday, October 6, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest-  **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Germany Holidays
+
+- New Year’s Day- **Wednesday, Jan 1, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Labour Day- **Thursday, May 1, 2025**
+- Ascension Day- **Thursday, May 29, 2025**
+- Whit Monday- **Monday, June 9, 2025**
+- German Unity Day- **Friday, October 3, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Ireland Holidays
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- St Brigid’s Day- **Monday, February 3, 2025**
+- St Patrick’s Day- **Monday, March 17, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- May Bank Holiday- **Monday, May 5, 2025**
+- June Bank Holiday- **Monday, June 2, 2025**
+- August Bank Holiday- **Monday, August 4, 2025**
+- October Bank Holiday- **Monday, October 27, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- St. Stephen's Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 United Kingdom Holidays 
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- May Day- **Monday, May 5, 2025**
+- Spring Bank Holiday- **Monday, May 26, 2025**
+- Summer Bank Holiday- **Monday, August 25, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+
+#### 2024 US Holidays
 
 - New Year’s Day- Monday, January 1, 2024
 - MLK Day- Monday, January 15, 2024
@@ -128,7 +212,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas- Wednesday, December 25, 2024
 - Global Week of Rest- Thursday, December 26, 2024→Friday, January 3, 2025
 
-#### Canada Holidays
+#### 2024 Canada Holidays
 
 - New Year's Day- Monday, January 1, 2024
 - Family Day- Monday, February 19, 2024
@@ -145,8 +229,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Boxing Day- Thursday, December 26, 2024
 - Global Week of Rest- Thursday, December 26, 2024→Friday, January 3, 2025
 
-
-#### United Kingdom Holidays
+#### 2024 United Kingdom Holidays
 
 - New Year's Day- Monday, January 1, 2024
 - Good Friday- Friday, March 29, 2024
@@ -158,7 +241,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Boxing Day- Thursday, December 26, 2024
 - Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
-#### Ireland Holidays
+#### 2024 Ireland Holidays
 
 - New Year's Day- Monday, January 1, 2024
 - St Brigid’s Day- Monday, February 5, 2024
@@ -171,21 +254,8 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - St. Stephen's Day- Thursday, December 26, 2024
 - Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
-#### Germany Holidays
+#### 2024 Germany Holidays
 
-- New Year’s Day- Monday, January 2, 2023
-- Epiphany (BW,BY & ST)- Friday, January 6, 2023
-- Good Friday- Friday, April 7, 2023
-- Easter Monday- Monday, April 10, 2023
-- Labour Day- Monday, May 1, 2023
-- Ascension Day- Thursday, May 18, 2023
-- Whit Monday- Monday, May 29, 2023
-- Corpus Christi (BW, BY, HE, NW, RP, SL, SN & TH)- Thursday, June 8, 2023
-- Assumption Day (BT & SL)- Tuesday, August 15, 2023
-- German Unity Day- Tuesday, October 3, 2023
-- Christmas Day- Monday, December 25, 2023
-- Saint Stephen’s Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 - New Year's Day- Monday, January 1, 2024
 - Good Friday- Friday, March 29, 2024
 - Easter Monday- Monday, April 1, 2024
@@ -197,7 +267,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Boxing Day- Thursday, December 26, 2024
 - Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
-#### Australia Holidays
+#### 2024 Australia Holidays
 
 - New Year's Day- Monday, January 1, 2024
 - Australia Day- Friday, January 26, 2024
@@ -212,7 +282,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Boxing Day- Thursday, December 26, 2024
 - Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
   
-#### New Zealand Holidays
+#### 2024 New Zealand Holidays
 
 - New Year's Day- Monday, January 1, 2024
 - Day after New Year's Day- Tuesday, January 2, 2024
