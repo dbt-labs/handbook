@@ -125,49 +125,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas Day- **Thursday, December 25, 2025**
 - Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
 
-#### 2025 Canada Holidays
-
-- New Year's Day- **Wednesday, Jan 1, 2025**
-- Family Day- **Monday, February 17, 2025**
-- Good Friday- **Friday, April 18, 2025**
-- Easter Monday- **Monday, April 21, 2025**
-- Victoria Day- **Monday, May 19, 2025**
-- Canada Day- **Tuesday, July 1, 2025**
-- Civic/Provincial Day- **Monday, August 4, 2025**
-- Labour Day- **Monday, September 1, 2025**
-- National Day for Truth and Reconciliation- **Tuesday, September 30, 2025**
-- Thanksgiving Day- **Monday, October 13, 2025**
-- Remembrance Day- **Tuesday, November 11, 2025**
-- Christmas Day- **Thursday, December 25, 2025**
-- Boxing Day- **Friday, December 26, 2025**
-- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
-
-#### 2025 Australia Holidays
-
-- New Year's Day- **Wednesday, Jan 1, 2025**
-- Australia Day Recognized- **Monday, January 27, 2025**
-- Good Friday- **Friday, April 18, 2025**
-- Easter Monday- **Monday, April 21, 2025**
-- Anzac Day- **Friday, April 25, 2025**
-- Queen's / Sovereign’s Birthday- **Monday, June 9, 2025**
-- Labour Day- **Monday, October 6, 2025**
-- Christmas Day- **Thursday, December 25, 2025**
-- Boxing Day- **Friday, December 26, 2025**
-- Global Week of Rest-  **Friday, December 26, 2025 → Friday, January 2, 2026**
-
-#### 2025 Germany Holidays
-
-- New Year’s Day- **Wednesday, Jan 1, 2025**
-- Good Friday- **Friday, April 18, 2025**
-- Easter Monday- **Monday, April 21, 2025**
-- Labour Day- **Thursday, May 1, 2025**
-- Ascension Day- **Thursday, May 29, 2025**
-- Whit Monday- **Monday, June 9, 2025**
-- German Unity Day- **Friday, October 3, 2025**
-- Christmas Day- **Thursday, December 25, 2025**
-- Boxing Day- **Friday, December 26, 2025**
-- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
-
 #### 2025 Ireland Holidays
 
 - New Year's Day- **Wednesday, Jan 1, 2025**
@@ -190,6 +147,49 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - May Day- **Monday, May 5, 2025**
 - Spring Bank Holiday- **Monday, May 26, 2025**
 - Summer Bank Holiday- **Monday, August 25, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Australia Holidays
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- Australia Day Recognized- **Monday, January 27, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Anzac Day- **Friday, April 25, 2025**
+- Queen's / Sovereign’s Birthday- **Monday, June 9, 2025**
+- Labour Day- **Monday, October 6, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest-  **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Canada Holidays
+
+- New Year's Day- **Wednesday, Jan 1, 2025**
+- Family Day- **Monday, February 17, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Victoria Day- **Monday, May 19, 2025**
+- Canada Day- **Tuesday, July 1, 2025**
+- Civic/Provincial Day- **Monday, August 4, 2025**
+- Labour Day- **Monday, September 1, 2025**
+- National Day for Truth and Reconciliation- **Tuesday, September 30, 2025**
+- Thanksgiving Day- **Monday, October 13, 2025**
+- Remembrance Day- **Tuesday, November 11, 2025**
+- Christmas Day- **Thursday, December 25, 2025**
+- Boxing Day- **Friday, December 26, 2025**
+- Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
+
+#### 2025 Germany Holidays
+
+- New Year’s Day- **Wednesday, Jan 1, 2025**
+- Good Friday- **Friday, April 18, 2025**
+- Easter Monday- **Monday, April 21, 2025**
+- Labour Day- **Thursday, May 1, 2025**
+- Ascension Day- **Thursday, May 29, 2025**
+- Whit Monday- **Monday, June 9, 2025**
+- German Unity Day- **Friday, October 3, 2025**
 - Christmas Day- **Thursday, December 25, 2025**
 - Boxing Day- **Friday, December 26, 2025**
 - Global Week of Rest- **Friday, December 26, 2025 → Friday, January 2, 2026**
