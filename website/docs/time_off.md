@@ -113,8 +113,8 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 US Holidays
 
-- New Year’s Day- **Wednesday, Jan 1, 2025**
-- MLK Day- **Monday, Jan 20, 2025**
+- New Year’s Day- **Wednesday, January 1, 2025**
+- MLK Day- **Monday, January 20, 2025**
 - President's Day- **Monday, February 17, 2025**
 - Memorial Day- **Monday,** **May 26, 2025**
 - Juneteenth- **Thursday**, **June 19, 2025**
@@ -127,7 +127,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 Ireland Holidays
 
-- New Year's Day- **Wednesday, Jan 1, 2025**
+- New Year's Day- **Wednesday, January 1, 2025**
 - St Brigid’s Day- **Monday, February 3, 2025**
 - St Patrick’s Day- **Monday, March 17, 2025**
 - Easter Monday- **Monday, April 21, 2025**
@@ -141,7 +141,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 United Kingdom Holidays 
 
-- New Year's Day- **Wednesday, Jan 1, 2025**
+- New Year's Day- **Wednesday, January 1, 2025**
 - Good Friday- **Friday, April 18, 2025**
 - Easter Monday- **Monday, April 21, 2025**
 - May Day- **Monday, May 5, 2025**
@@ -153,7 +153,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 Australia Holidays
 
-- New Year's Day- **Wednesday, Jan 1, 2025**
+- New Year's Day- **Wednesday, January 1, 2025**
 - Australia Day Recognized- **Monday, January 27, 2025**
 - Good Friday- **Friday, April 18, 2025**
 - Easter Monday- **Monday, April 21, 2025**
@@ -166,7 +166,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 Canada Holidays
 
-- New Year's Day- **Wednesday, Jan 1, 2025**
+- New Year's Day- **Wednesday, January 1, 2025**
 - Family Day- **Monday, February 17, 2025**
 - Good Friday- **Friday, April 18, 2025**
 - Easter Monday- **Monday, April 21, 2025**
@@ -183,7 +183,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### 2025 Germany Holidays
 
-- New Year’s Day- **Wednesday, Jan 1, 2025**
+- New Year’s Day- **Wednesday, January 1, 2025**
 - Good Friday- **Friday, April 18, 2025**
 - Easter Monday- **Monday, April 21, 2025**
 - Labour Day- **Thursday, May 1, 2025**
