@@ -111,7 +111,7 @@ Learn how to ask questions through our partner Newfront Answers [here](https://w
 
 ### Medical Plans (US)
 
-Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
+Learn more about our medical plans [here](https://app.strivebenefits.com/dbt).
 
 ### Disability and Life Insurance (US)
 We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. 
