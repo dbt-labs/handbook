@@ -20,6 +20,8 @@ This handbook is intended to answer your questions as a new employee and should 
 
 [Values](values.md)
 
+[Leadership Principles](leadership_principles.md)
+
 [Hiring](hiring.md)
 
 [Working Here](working_here.md)
