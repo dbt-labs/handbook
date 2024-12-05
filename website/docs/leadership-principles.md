@@ -1,5 +1,5 @@
 ---
-id: leadership_priciples
+id: leadership_principles
 title: Leadership Principles
 sidebar_label: Leadership Principles
 ---
