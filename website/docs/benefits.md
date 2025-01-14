@@ -67,12 +67,10 @@ The following stipend amounts have been developed to help cover some of the cost
 |----------------	|-----------------------------------------	|----------------	|
 | Australia      	| 673                                     	| AUD            	|
 | Germany        	| 183                                     	| EUR            	|
-| Ireland        	| 274                                     	| EUR            	|
 | New Zealand    	| 730                                     	| NZD            	|
 | United Kingdom 	| 268                                     	| GBP            	|
 | Sweden         	| 1418                                    	| SEK            	|
 | Finland        	| 183                                     	| EUR            	|
-| Canada        	| 625                                     	| CAD            	|
 
 ### Receiving the Benefits Stipend
 
