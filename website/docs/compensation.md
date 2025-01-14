@@ -34,7 +34,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 1. Values are more important than success; we work to operate within the frameworks of our pay programs and policies, even if that causes real near-term pain. 
 2. Transparency always wins, and we will be as transparent as possible. 
     1. Our employees are empowered to understand how their total rewards are determined and measured against the external market. Everyone at dbt Labs will have access to their compensation range. We comply with all global pay transparency laws on external job postings.
-    2. Our compensation policies are transparent and made readily available to all employees..
+    2. Our compensation policies are transparent and made readily available to all employees.
     3. We **never** disclose a single individual’s compensation for privacy reasons but do not dissuade individuals from discussing it.
 3. We are a global compnay.
     1. We treat all compensation ranges at a company level using the same methodologies across all countries. 
@@ -43,7 +43,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 4. Our compensation ranges are updated twice a year based on reputable external market data sources that appropriately reflect our workforce (roles, levels, geos).
 5. We strive for a globally consistent and scalable compensation philosophy.
 
-### Our Compensation Philosophy
+## Our Compensation Philosophy
 
 - **Base Pay:** For each country, our compensation bands are centered around the 60th percentile of public and private technology companies. 
     - We actively monitor all pay programs to ensure underrepresented groups are paid at the same rate as others in the same role / level / country.
@@ -54,11 +54,11 @@ Our compensation philosophy has been arrived at over the course of many years, c
 - **Benefits:** We strive to offer benefit packages that provide our team members with strong medical coverage regardless of their location or care needs. 
     - Countries have a variety of differences in government provided healthcare, pension plan requirements, and costs of labor; this means each country has nuances that we work hard to consider when creating total rewards offerings. 
 
-## Pay Day
+### Pay Day
 
 Payroll schedules vary by country. Employees can learn more about their pay schedules: [here](https://www.notion.so/dbtlabs/Payroll-Schedules-1c14ff45ae7e4388b76a69ac2b83abf8?pvs=4).
 
-### A Guide to Equity
+## A Guide to Equity
 
 This guide is meant to help you understand the piece of dbt Labs that you’re going to own! Please note that while we hope this guide is a helpful overview, the governing terms and conditions are contained in your dbt Labs, Inc. 2019 Equity Incentive Plan (the "2019 Equity Plan") and your stock option agreement, all of which you are advised to read in full detail.
 
@@ -72,7 +72,7 @@ We *do not*, however, see equity as a way to "bridge the gap" to below-market ca
 
 💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
 
-#### Taxes
+### Taxes
 
 Tax law is complex and you are strongly encouraged to consult a tax attorney or tax advisor who is familiar with startup stock options before making any decisions. More detailed information regarding Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NSOs) tax implications can be found in our [equity toolkit](https://www.notion.so/dbtlabs/Equity-Toolkit-17bbb38ebda78084b91dd07c78a8950c).
 
