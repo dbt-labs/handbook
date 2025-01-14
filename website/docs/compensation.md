@@ -15,7 +15,6 @@ sidebar_label: Compensation
 [Compensation Philosophy](#our-compensation-philosophy)
 
 [Equity Operations](#a-guide-to-equity)
-- [Tax Implications](#taxes)
 
 ## Compensation Principles
 
