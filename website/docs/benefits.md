@@ -379,7 +379,7 @@ It doesn’t; but it does need to be considered professional development as it r
 
 **What if I want to take a course or attend a conference that costs more than available funds?**
 
-Occasionally, expenses beyond the initial stipend will be reimbursed with advanced manager approval. This is most relevant as it relates to in-person conferences (fees, travel, and expenses). Let your manager know what you need, and they can send the request to the **#finance-support** Slack channel and do their best to make it work.
+Occasionally, expenses beyond the initial stipend will be reimbursed with advanced manager approval. This is most relevant as it relates to in-person conferences (fees, travel, and expenses). Let your manager know what you need, and they can send the request to the **#ask-accounting-support** Slack channel and do their best to make it work.
 
 **What are some examples of professional development purchases?**
 
