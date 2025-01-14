@@ -190,6 +190,4 @@ The use of equity bands follows a similar practice as salary bands with a one im
 
 Internal equity is framed around how a candidate compares to the rest of the team, holistically, rather than based on equity. This is because equity amounts & values will continue to change over time and cannot be a direct comparison like when evaluating cash comp (ie. Someone who joined post Series B ≠ Post Series D)
 
-We use the [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5) as the basis for the equity offering.
-
-Then we use an internal [Equity Scenario Calculation tool](https://docs.google.com/spreadsheets/d/13GM9fLEZjUv_T5dVB-6LvVKWkbqq24CD8ngSmYT0PMQ/edit#gid=1621073057) to determine what a candidate should be offered within the equity band (# of Shares, Net Value, Gross Value).
+Reference our [Equity toolkit](https://www.notion.so/dbtlabs/Equity-Toolkit-17bbb38ebda78084b91dd07c78a8950c?pvs=4) for more information regarding equity at dbt Labs.
