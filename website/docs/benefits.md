@@ -419,9 +419,7 @@ We understand that working from home does not work for everyone. All dbt Labs em
 
 ### Workplace Rental Options
 
-- **Rental vendors:** [**Learn more**](https://www.notion.so/draft-How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=21) about how to use these vendors.
-    - **Liquidspace:** Liquidspaces offers broad-ranging options in a variety of locations.
-    - **WeWork:** WeWork supports a more consistent workplace experience in major cities.
+- **Rental vendor:** [**Learn more**](https://www.notion.so/draft-How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=21) about how to use Upflex.
 - **Reimbursement option:** If you can’t find a workplace location that meets your needs through our vendors, you can submit for reimbursement, up to $300/month (or localized international rate).
 
 ### Getting Help
