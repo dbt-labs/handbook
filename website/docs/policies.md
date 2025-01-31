@@ -396,17 +396,17 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 
 ## Computer Refresh Policy
 
-All new hires are given a company-owned laptop (a new or like-new MacBook Pro with specs determined based on role)- please **do not** use personal computers to perform company business. 
+All new hires are given a company-owned laptop (a new or like-new MacBook or MacBook Pro with specs determined based on role)- please **do not** use personal computers to perform company business. 
 
-All team members are eligible for a new laptop after 3 years of use.
+All team members are eligible for a new laptop after 4 years of use.
 
-#### What if my computer breaks before the 3 year mark?
+#### What if my computer breaks before the 4 year mark?
 
 Depending on the age of your Mac and the cost of any potential repairs, the Mac will be repaired. A member of the IT team will work with you to facilitate the entire repair process. You will receive a shipping box with prepaid postage to Apple's repair center and a loaner Mac to use in the interim. For next steps, reach out to IT.
 
 #### What happens to my old Mac?
 
-- Laptops more than 3 years old or damaged beyond repair are decommissioned and erased by IT in accordance to NIST standards.
+- Laptops more than 4 years old or damaged beyond repair are decommissioned and erased by IT in accordance to NIST standards.
 - You will receive a shipping box with prepaid postage to return your Mac.
 - Old Macs will be e-recycled or donated.
 
