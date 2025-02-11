@@ -33,8 +33,6 @@ sidebar_label: Benefits and Perks
 
 [Employee Discounts](#employee-discounts)
 
-[Wellness Program](#wellness-program)
-
 ## Global Benefits Strategy & Stipend
 
 ### Benefits Strategy & Philosophy
@@ -427,19 +425,6 @@ We understand that working from home does not work for everyone. All dbt Labs em
 - Learn how to use your benefit and answers to FAQs [here](https://www.notion.so/dbtlabs/How-to-Workplace-Rental-f377f3daf46a4d43a4b02221adbcadf2?pvs=4#83aafa68b7bb4ac885161a671077c94b).
 - For general questions about this benefit, submit a helpdesk ticket to the benefits team.
 - For questions about budget for your team gathering, contact your finance business partner.
-
-## Wellness Program
-
-At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
-
-- Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
-- The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
-- Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
-
-Learn more about the program and how to setup your account: [brightwellness.pdf](https://github.com/dbt-labs/handbook/files/11313174/brightwellness.pdf)
-
-- Join classes: https://choosebright.com/dbt/
-- Join the #bright-wellness channel on Slack
   
 ## Employee Discounts
 
