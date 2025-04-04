@@ -20,7 +20,6 @@ sidebar_label: Time Off
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, we recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
 - We estimate that 4 weeks in a year is a good amount to take off (this is based on what we have seen historically). Note though that we do not have a cap on the number of days you can take off for Personal Time Off.
-- At the end of each quarter, the People team will send managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
 We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8F-types-of-time-off-plans--definitions). 
