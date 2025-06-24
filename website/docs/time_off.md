@@ -246,7 +246,7 @@ We understand that exact timing can't always be planned so, as early as possible
 - Documenting as much as possible to set your team up for success while you're gone.
 - As soon as your leave is approved contact your People Business Partner to initiate the process with our leave management partner, Sparrow.
 
-Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
+Learn more about how to request a leave of absence [here](https://www.notion.so/dbtlabs/How-to-Request-a-Leave-of-Absence-LOA-26e6b99fa9884474ba407e8af51389eb?source=copy_link).
 
 ### Paid Medical Leave
 
