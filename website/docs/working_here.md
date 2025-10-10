@@ -254,7 +254,8 @@ Compensation bands for each country we have an entity in will be listed in our c
 2. All moves should be to a country where we have a dbt Labs entity. 
     1. Any international moves outside of countries we have a presence in, must be approved by the CFO and be to a location where there is a business case. We ask for a 6 month lead time to determine if this move is possible
 3. Team members must obtain their own work authorization to work in the country they are moving to. For moves initiated by the team member, dbt Labs will not cover expenses for work authorization. 
-4. If a move is initiated by a team member, we will not cover any relocation or living expenses. 
+4. If a move is initiated by the team member, they are responsible for obtaining valid work authorization in the destination country. dbt Labs will not cover any costs related to immigration, relocation, or living expenses for employee-driven moves.
+    1. **Important note:** “Securing your own work authorization” means that the team member holds a status that does not require dbt Labs to act as a visa sponsor. Work authorization routes that legally require dbt Labs to act as the employer sponsor (such as the UK Skilled Worker Permit, U.S. H-1B visa, etc.) are not eligible for employee-driven moves, since they obligate dbt Labs to assume legal responsibility for sponsorship and compliance, regardless of who pays the costs.
 5. We encourage team members to consult with a tax advisor to understand the implications of the move as it relates to tax and equity. 
     1. **Please remember that your compensation will be updated to reflect the local country-level market you are moving to.**  
 
