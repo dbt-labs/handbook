@@ -172,7 +172,7 @@ The Corporate Travel & Expense Policy is meant to act as a guideline to assist e
 
 #### Accountability
 
-- Leaders will receive a quarterly summary of non-compliant travel spend to ensure employee travel aligns with annual budgets and intended purposes**.** Please follow the policies to maintain compliance.
+- Leaders will receive a quarterly summary of non-compliant travel spend to ensure employee travel aligns with annual budgets and intended purposes. Please follow the policies to maintain compliance.
 - These policies and guidelines can’t cover every possibility, so use good judgment. If unsure, contact the Accounts Payable team at [**ap@dbtlabs.com**](mailto:ap@dbtlabs.com) or submit a ticket in the #ask-accounting-support Slack channel.
 
 ### **Key Tenants of the Travel and Expense Policy:**
