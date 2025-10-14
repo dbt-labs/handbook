@@ -8,7 +8,6 @@ sidebar_label: Policies
 |---|
 | Megan Pittman |
 | Stephanie Murray |
-| Tiffany Hui |
 | Aaron Stanley |
 
 
