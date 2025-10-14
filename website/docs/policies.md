@@ -180,7 +180,7 @@ The Corporate Travel & Expense Policy is meant to act as a guideline to assist e
 - **Book all business travel through Navan:**
     - Use Navan to book all business travel (including flight, hotel, rail, and rental car). Even if you find a cheaper flight elsewhere, please book through Navan.
     - Access Navan through Okta or [here](https://app.tripactions.com/app/).
-- **Submit reimbursement requests for expenses in Airbase within 30 days of the expense date**.
+- **Submit reimbursement requests for expenses in Ramp within 30 days of the expense date**.
     - Timely expense submission provides us with expense visibility and ensures we are capturing costs in the correct period.
 - **Receipts are required for spend greater than $50 USD (or local equivalent).**
     - This requirement applies to expense reimbursements, physical cards, and virtual cards. It helps us maximize our tax deductions.
