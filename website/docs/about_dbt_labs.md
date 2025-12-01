@@ -15,6 +15,11 @@ Hello and welcome to dbt Labs. We’re thrilled to have you as a member of the t
 
 This handbook is intended to answer your questions as a new employee and should serve as a valuable resource throughout your employment. Read on to learn about important company policies and procedures, as well as the commitments we have to our employees.
 
+### dbt Labs is Merging with Fivetran
+A quick heads up: we’re in a transition period. [dbt Labs and Fivetran have signed an agreement to merge](https://www.getdbt.com/blog/dbt-labs-and-fivetran-merge-announcement), with the goal of becoming one company in early 2026. As we integrate, this public handbook may lag behind internal updates.
+
+If you're an employee, please use our internal resources for the most current guidance. We look forward to sharing more about our updated policies and public documentation as our new company takes shape.
+
 ## About dbt Labs
 [Mission](mission.md) 
 
