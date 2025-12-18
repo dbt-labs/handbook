@@ -171,7 +171,7 @@ Employees may contribute up to the annual IRS maximum. dbt Labs’ 3% employer c
 
 ### Enrollment Process
 
-*Note: All US team members are **automatically enrolled** into a 401k contributions
+*Note: All US team members are **automatically enrolled** into a 401k contribution
 
 Approximately one week after your start date, you’ll be able to create your Fidelity NetBenefits account. **If you already have a Fidelity account from a previous employer, there is no need to create a new one**—your dbt Labs 401(k) plan will automatically populate in your existing account based on your Social Security number.
 
