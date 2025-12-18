@@ -186,19 +186,19 @@ If you have questions, contact a Fidelity representative at 800-835-5097.
 
 ### FAQs
 
-## **Can a team member opt out of the 401(k) program?**
+ **Can a team member opt out of the 401(k) program?**
 - Yes. Employees can opt out at any time directly through their Fidelity account.
 
-## **How can a team member adjust their contribution rate?**
+ **How can a team member adjust their contribution rate?**
 - Log in to your Fidelity NetBenefits account and update your contribution elections.
 
-## **Is there a vesting schedule for employer contributions?**
+ **Is there a vesting schedule for employer contributions?**
 - No. All employer contributions are **immediately vested**.
 
-## **What should I do if I believe I over-contributed to my 401(k)?**
+ **What should I do if I believe I over-contributed to my 401(k)?**
 - Reach out to **Fidelity Support**. They will assist you in reviewing and, if needed, correcting any excess contributions.
 
-## **How long does it take for contribution changes to affect payroll?**
+ **How long does it take for contribution changes to affect payroll?**
 - Changes typically apply in 1-2 **payroll cycles**, depending on the timing of your update
 
 ## Stipends
