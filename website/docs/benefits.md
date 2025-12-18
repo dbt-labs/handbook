@@ -161,19 +161,23 @@ If you have questions or need support relating to out-of-state travel for health
 
 ## Retirement (US)
 
-All US based employees have access to an employer-sponsored 401K plan, adminstered through [Guideline](https://www.guideline.com/). 
+All US-based employees are eligible to participate in dbt Labs’ employer-sponsored 401(k) plan, administered through [**Fidelity**](https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login).
 
-Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into their retirement account on a monthly basis and employees will be automatically enrolled at 4% contributions, which can be adjusted at any time. 
+Upon hire, dbt Labs automatically contributes **3% of your monthly salary** to your retirement account. Employees are also **automatically enrolled** at a **4% employee contribution rate**, which you may change—or opt out of—at any time.
 
-Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
+> 🚨 Note: If you do not wish to contribute the default 4%, you must actively opt out in your Fidelity account.
+
+Employees may contribute up to the annual IRS maximum. dbt Labs’ 3% employer contribution is provided **regardless of whether you make additional contributions**.
 
 ### Enrollment Process
 
 *Note: All US team members are **automatically enrolled** into a 401k contributions
 
-1. New emploees will receive a welcome email from Guideline to their personal email with a link to set-up their account.
-2. Once logged in, employees can set contribution amounts at any time throughout the year.
-3. Employees’s are automatically enrolled at a default contribution rate of 4%.
+Approximately one week after your start date, you’ll be able to create your Fidelity NetBenefits account. **If you already have a Fidelity account from a previous employer, there is no need to create a new one**—your dbt Labs 401(k) plan will automatically populate in your existing account based on your Social Security number.
+
+Once registered, you can review your plan, update contribution amounts, and manage your retirement elections at any time.
+
+If you have questions, contact a Fidelity representative at 800-835-5097.
 
 ### Automatic Contribution Amounts
 
@@ -182,20 +186,20 @@ Employees can additionally opt to contribute up to the federal maximum to their 
 
 ### FAQs
 
-**Can a team member opt out of the 401k program?**
-- Yes! The team member needs to opt out themselves. 
+## **Can a team member opt out of the 401(k) program?**
+- Yes. Employees can opt out at any time directly through their Fidelity account.
 
-**How can a team member increase or decrease their contribution amount?**
-- Login to their Guideline account and update their election.
+## **How can a team member adjust their contribution rate?**
+- Log in to your Fidelity NetBenefits account and update your contribution elections.
 
-**Is there a vesting schedule for the employer contributions?**
-- All employer contributions are immediately vested. 
+## **Is there a vesting schedule for employer contributions?**
+- No. All employer contributions are **immediately vested**.
 
-**I think I over contributed to my 401k, what should I do?**
-- Reach out directly to Guideline's support team and they can assist with correcting any potential errors.
+## **What should I do if I believe I over-contributed to my 401(k)?**
+- Reach out to **Fidelity Support**. They will assist you in reviewing and, if needed, correcting any excess contributions.
 
-**How long does it take for a changed contribution amount to be reflected in payroll?**
-- This may depend on timing but generally changes will take effect on the next payroll run.
+## **How long does it take for contribution changes to affect payroll?**
+- Changes typically apply in 1-2 **payroll cycles**, depending on the timing of your update
 
 ## Stipends
 
